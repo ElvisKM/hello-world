@@ -1,3 +1,2 @@
 # hello-world
-I am a beginner developer
-I have studied C and planning to study java and python in the next month as i am interested in app develpoment and machine learning
+This is a dummy repo used to familiarize with github, likely to be deleted in the future
